@@ -27,6 +27,7 @@ function johnLennonFacts(John_facts){
 
 function iLoveTheBeatles(number){
   empty_array = [];
+  if 
   do {
     empty_array.push("I love the Beatles!");
   }
