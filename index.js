@@ -1,9 +1,5 @@
 // add solution here
 
-const John_facts = ["He was the last Beatle to learn to drive",
-        "He was never a vegetarian",
-        "He was a choir boy and boy scout",
-        "He hated the sound of his own voice"];
 
 function theBeatlesPlay(array_musicians, array_instruments) {
   var empty_array = [];
@@ -14,6 +10,8 @@ function theBeatlesPlay(array_musicians, array_instruments) {
       return empty_array;
 }
 
+
+
 function johnLennonFacts(John_facts){
   var array_length = John_facts.length;
   var empty_array = [];
@@ -21,6 +19,7 @@ function johnLennonFacts(John_facts){
   while (array_length > 0){
   empty_array.push(John_facts[i] + "!!!");
   i ++;
+  array_length ++;
   }
   return empty_array;
 }
