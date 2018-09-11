@@ -1,5 +1,10 @@
 // add solution here
 
+const facts = ["He was the last Beatle to learn to drive",
+        "He was never a vegetarian",
+        "He was a choir boy and boy scout",
+        "He hated the sound of his own voice"];
+
 function theBeatlesPlay(array_musicians, array_instruments) {
   var empty_array = [];
   var array_length = array_musicians.length;
@@ -21,7 +26,7 @@ function johnLennonFacts(John_facts){
 }
 
 
-function johnLennonFacts(facts)
+/*function johnLennonFacts(facts)
 { 
   var eFacts = [];
   let i = 0;
@@ -30,4 +35,4 @@ function johnLennonFacts(facts)
     i++;
       return eFacts;
      }
-}
+}*/
