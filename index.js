@@ -27,11 +27,7 @@ function johnLennonFacts(John_facts){
 
 function iLoveTheBeatles(number){
   empty_array = [];
-  if (number > 15){
-    empty_array.push("I love the Beatles");
-  }else{
   do {
     empty_array.push("I love the Beatles!");
   } while 
-  }
-  return;
+ 
