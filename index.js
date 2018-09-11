@@ -25,4 +25,7 @@ function johnLennonFacts(John_facts){
 }
 
 
-function iLoveTheBeatles()
+function iLoveTheBeatles(number){
+  empty_array = [];
+  do 
+}
