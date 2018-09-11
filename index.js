@@ -25,13 +25,4 @@ function johnLennonFacts(John_facts){
 }
 
 
-/*function johnLennonFacts(facts)
-{ 
-  var eFacts = [];
-  let i = 0;
-    while (i < 4){
-    eFacts.push(facts[i] + "!!!"); 
-    i++;
-      return eFacts;
-     }
-}*/
+function iLoveTheBeatles()
