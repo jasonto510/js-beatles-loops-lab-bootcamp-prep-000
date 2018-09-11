@@ -34,4 +34,4 @@ function iLoveTheBeatles(number){
     empty_array.push("I love the Beatles!");
   } while 
   }
-}
+  return;
